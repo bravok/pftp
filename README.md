@@ -1,16 +1,11 @@
 # pftp
 
-I design systems. This one is a System of Peace. I recommend you try it. If you find anything wrong with it, I ask that you let me know. We can use the Issues section of this repository to discuss what you find.
+Take the following into consideration:
 
-There are four groups of people
+1. An individual human person has inherent power
+2. Governments and organizations of people derive their power from those people
+3. The power of a person may be amplified, exploited, suppressed, or left in possession of that person
 
-# Your Self
-
-# Your Loved-Ones
-
-# Your Friends
-
-# The Others
 
 
 
